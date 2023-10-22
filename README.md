@@ -23,6 +23,8 @@ required result.
 
 
 
+BUT ----  THIS VERSION HAS SPINNING PIZZA
+
 ---------------------
 
 create a html card to display an img and some text,  used css to animate the img card to rotate 360 degrees 
